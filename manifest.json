@@ -1,8 +1,8 @@
 {
 	"background_color": "#ffffff",
 	"theme_color": "#333333",
-	"name": "TODO",
-	"short_name": "TODO",
+	"name": "CrewsyCrews Blog",
+	"short_name": "CrwsyCrwsBlg",
 	"display": "minimal-ui",
 	"start_url": "/crewsycrews.blog/",
 	"icons": [
