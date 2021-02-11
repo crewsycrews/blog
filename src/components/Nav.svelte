@@ -50,5 +50,5 @@
 
 <nav>
   <a rel=prefetch class='{segment === undefined ? "selected" : ""}' href='.'>blog</a>
-  <a href='https://crewsycrews.github.io/crewsycrews.angular/'>Personal page</a>
+  <a href='https://crewsycrews.github.io/me/'>Personal page</a>
 </nav>
