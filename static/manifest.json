@@ -4,7 +4,7 @@
   "name": "CrewsyCrews Blog",
   "short_name": "CrwsyCrwsBlg",
   "display": "minimal-ui",
-  "start_url": "/blog/",
+  "start_url": "/",
   "icons": [
     {
       "src": "logo-316.png",
