@@ -47,7 +47,7 @@
   
 <!-- Validate your twitter card with https://cards-dev.twitter.com/validator  -->
 <!-- Update content properties with your URL   -->
-<!-- 	<meta property="og:url" content=""} /> -->
+<!-- 	<meta property="og:url" content="" /> -->
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content={post.title} />
 	<meta name="Description" content={post.excerpt} />

@@ -44,7 +44,7 @@ export default () => ({
     const fileName = path.basename(id);
     const { data, content: rawContent } = matter(md);
     const { title, date } = data;
-    const slug = fileName.split('.')[0];
+    const slug = "/crewsycrews.blog/" + fileName.split('.')[0];
     let content = rawContent;
     let excerpt = '';
 
