@@ -40,11 +40,11 @@ marked.setOptions({ renderer });
 export default () => ({
   transform(md, id) {
     if (!/\.md$/.test(id)) return null;
-
+    const urlPrefix = process.env.NODE_ENV === development ? '' : 'crewsycrews.blog/';
     const fileName = path.basename(id);
     const { data, content: rawContent } = matter(md);
     const { title, date } = data;
-    const slug = "/crewsycrews.blog/" + fileName.split('.')[0];
+    const slug = urlPrefix + fileName.split('.')[0];
     let content = rawContent;
     let excerpt = '';
 
