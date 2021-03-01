@@ -3,7 +3,7 @@ title: My birthday!
 date: "2020-03-01T10:00:00.000Z"
 ---
 
-Thanks to all my family and friend for participating in my wife's surprise!
+Thanks to all my family and friends for participating in my wife's surprise!
 <!-- more -->
 <center>
 The content of the Miro-board is only accessible by my family and friends.
