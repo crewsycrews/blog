@@ -21,8 +21,8 @@
 <div>
   <img src="profile-pic.png" alt="Maxi Ferreira">
   <p>
-    Hi, I'm <strong>Danil</strong>. I'm a software engineer from somewhere in Russia(traveler).
-    You can see some of my work on <a href="https://www.github.com/crewsycrews" target="_blank">GitHub</a>,
-    or get some useful links about me on <a href="https://crewsycrews.github.io/crewsycrews.prod/" target="_blank">my website</a>.
+    Hi, I'm <strong>Danil</strong>, a software engineer from somewhere in Russia.
+    You can see a bit of my work on <a href="https://www.github.com/crewsycrews" target="_blank">GitHub</a>,
+    or get some useful links about me on <a href="https://crewsycrews.github.io/me/" target="_blank">my website</a>.
   </p>
 </div>
